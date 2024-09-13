@@ -12,7 +12,7 @@ function App() {
       </div>
       <div className="artist">
         <div className="image">
-          <img src="/assets/kingprince.jpeg" alt="King & Prince" width="300" height="450"/>
+          <img src="https://i.ibb.co/ScqbDcs/GOLB297b-YAAd-Lhz.jpg" alt="King & Prince" width="300" height="450"/>
         </div>
         <div className="albumContainer">
           <div className="heading">
